@@ -5,9 +5,20 @@ Edit your Ice Station Z (3DS)-saves!
 
 
 Changelog:
+
 -----Ice Station Z Save Editor-----
 
 v1.2.8 (Lastest)
+
+-Added new option's (Walked KM's, Killed ZonZon, etc).
+
+
+------------------------------------
+
+
+-----Ice Station Z Save Editor-----
+
+v3.x.x (Lastest)
 
 -Added new option's (Food, Water, Battery).
 
